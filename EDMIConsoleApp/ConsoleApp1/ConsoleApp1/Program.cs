@@ -5,7 +5,7 @@ using ConsoleApp1;
 namespace TestingEnum
 {
 
-    enum TypeDescription
+    public enum TypeDescription
     {
         NullData = 0,
         Array = 1,
